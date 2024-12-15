@@ -1,0 +1,24 @@
+/* Import Tailwind Base Styles */
+@tailwind base;
+
+/* Import Tailwind Component Styles */
+@tailwind components;
+
+/* Import Tailwind Utility Styles */
+@tailwind utilities;
+
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Nunito+Sans:opsz,wght@6..12,800&display=swap');
+
+/* Set Global Font Family */
+html {
+  /* Primary Font: Montserrat */
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* Fade Out Animation: Gradually reduces opacity to zero */
+@keyframes fadeOut {
+  0% { opacity: 1; }
+  100% { opacity: 0; }
+}
+
