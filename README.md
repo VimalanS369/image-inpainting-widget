@@ -17,7 +17,7 @@ To run the project locally, ensure you have the following installed:
 ### Steps
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/VimalanS369/image-inpainting-widget.git
    cd image-inpainting-widget
    ```
 
